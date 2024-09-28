@@ -1,0 +1,74 @@
+[
+  {
+    "image": {
+      "thumbnail": "/images/waffels.jpg"
+    },
+    "name": "Waffle with Berries",
+    "category": "Waffle",
+    "price": 6.5
+  },
+  {
+    "image": {
+      "thumbnail": "/images/creme-brulee.jpg"
+    },
+    "name": "Vanilla Bean Crème Brûlée",
+    "category": "Crème Brûlée",
+    "price": 7.0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/macaron.jpg"
+    },
+    "name": "Macaron Mix of Five",
+    "category": "Macaron",
+    "price": 8.0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/tiramisu.jpg"
+    },
+    "name": "Classic Tiramisu",
+    "category": "Tiramisu",
+    "price": 5.5
+  },
+  {
+    "image": {
+      "thumbnail": "/images/baklava.jpg"
+    },
+    "name": "Pistachio Baklava",
+    "category": "Baklava",
+    "price": 4.0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/meringue.jpg"
+    },
+    "name": "Lemon Meringue Pie",
+    "category": "Pie",
+    "price": 5.0
+  },
+  {
+    "image": {
+      "thumbnail": "/images/red-velvet.jpg"
+    },
+    "name": "Red Velvet Cake",
+    "category": "Cake",
+    "price": 4.5
+  },
+  {
+    "image": {
+      "thumbnail": "/images/brownie.jpg"
+    },
+    "name": "Salted Caramel Brownie",
+    "category": "Brownie",
+    "price": 4.5
+  },
+  {
+    "image": {
+      "thumbnail": "/images/panna-cotta.jpg"
+    },
+    "name": "Vanilla Panna Cotta",
+    "category": "Panna Cotta",
+    "price": 6.5
+  }
+]
